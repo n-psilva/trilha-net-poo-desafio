@@ -20,3 +20,7 @@ Você deve criar as suas classes de acordo com o diagrama abaixo:
 
 ## Solução
 O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+
+## Implementação
+
+Todo código necessário para o correto funcionamento do programa foi implementado seguindo as orientações. Ainda foi adicionado um método extra para mostrar as informações de cada Smartphone e uma barra de progresso para o método InstalarAplicativo().
